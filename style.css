@@ -1,0 +1,12 @@
+p {
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    background-color: blue;
+    
+}
+.mesChemises {
+    display: flex;
+    border: solid rgb(185, 44, 44);
+}
